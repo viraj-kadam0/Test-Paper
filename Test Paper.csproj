@@ -43,18 +43,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Divisibleby5.cs" />
-    <Compile Include="EquilateralArea.cs" />
-    <Compile Include="FindCharater.cs" />
-    <Compile Include="FiveSubs.cs" />
-    <Compile Include="LeapOrNot.cs" />
-    <Compile Include="Maximum.cs" />
-    <Compile Include="OddEven.cs" />
-    <Compile Include="OperatorMath.cs" />
+    <Compile Include="Test Paper 1\Divisibleby5.cs" />
+    <Compile Include="Test Paper 1\EquilateralArea.cs" />
+    <Compile Include="Test Paper 1\FindCharater.cs" />
+    <Compile Include="Test Paper 1\FiveSubs.cs" />
+    <Compile Include="Test Paper 1\LeapOrNot.cs" />
+    <Compile Include="Test Paper 1\Maximum.cs" />
+    <Compile Include="Test Paper 1\OddEven.cs" />
+    <Compile Include="Test Paper 1\OperatorMath.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleCalculator.cs" />
-    <Compile Include="VowelConconent.cs" />
+    <Compile Include="Test Paper 1\SimpleCalculator.cs" />
+    <Compile Include="Test Paper 2\1to50.cs" />
+    <Compile Include="Test Paper 2\2_12_36.cs" />
+    <Compile Include="Test Paper 2\FactorialSeriesSum.cs" />
+    <Compile Include="Test Paper 2\fibbo.cs" />
+    <Compile Include="Test Paper 2\FindOutput2.cs" />
+    <Compile Include="Test Paper 2\Pattern1.cs" />
+    <Compile Include="Test Paper 2\TwinPrime.cs" />
+    <Compile Include="Test Paper 3\FibboSeries.cs" />
+    <Compile Include="Test Paper 3\HarshadNumber.cs" />
+    <Compile Include="Test Paper 3\Krishnamurti.cs" />
+    <Compile Include="Test Paper 3\Not5Or10.cs" />
+    <Compile Include="Test Paper 3\OddSquare.cs" />
+    <Compile Include="Test Paper 3\Factors.cs" />
+    <Compile Include="Test Paper 3\RedBlue.cs" />
+    <Compile Include="Test Paper 1\VowelConconent.cs" />
+    <Compile Include="Test Paper 4\BaseIndex.cs" />
+    <Compile Include="Test Paper 4\Frquency.cs" />
+    <Compile Include="Test Paper 4\Kaprekar.cs" />
+    <Compile Include="Test Paper 4\Patterns.cs" />
+    <Compile Include="Test Paper 4\Series.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
